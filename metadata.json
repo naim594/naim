@@ -1,0 +1,6 @@
+{
+  "name": "NAIM AI",
+  "description": "NAIM AI - Luxury Black and Gold Theme AI Study Assistant with Handwritten Notes AI, Smart Notes Generator, AI Diagram Generator, Voice Assistant and comprehensive study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
